@@ -11,13 +11,13 @@ Next I will illustrate some skills I have.
   
 ||||
 |-----------------------------|---------------------------------|----------------------------------------|
-|  🎩 [Front End](#front-end) |  ⚓ [S.O](#so)                  | 📌 [Project Documentation](#project-documentation)|
-|  🪃 [Back End](#back-end)   |  🎨 [Designer](#designer)       | 🚀 [Others](#others)|
-|  🎲 [Data Base](#data-base) |  🏢 [Office Pack](#office-pack) |  ... |
+| 🎩 [Front End](#front-end) |  ⚓ [S.O](#so)                  | 📌 [Project Documentation](#project-documentation)|
+| 🪃 [Back End](#back-end)   |  🎨 [Designer](#designer)       | 🚀 [Others](#others)|
+| 🎲 [Data Base](#data-base) |  🏢 [Office Pack](#office-pack) |  ... |
 
 
 
-## 🎩 Front End
+## 🎩Front End
 - HTML
 - CSS
 - JavaScript
@@ -26,30 +26,30 @@ Next I will illustrate some skills I have.
 - Nextjs
 - JQuery
 
-## 🪃 Back End
+## 🪃Back End
 - PHP
 - Node
 - C#
 
-## 🎲 Data Base
+## 🎲Data Base
 - MySQL
 - SQL Server
 - Postgres
 - Mongodb
 
-## ⚓ S.O
+## ⚓S.O
 - Windows
 - Ubunto
 - Kalinux
 - Linux Mint
 
-## 🎨 Designer
+## 🎨Designer
 - Figma
 - Adobe XD
 - Photoshop
 - Corel Draw
 
-## 🏢 Office Pack
+## 🏢Office Pack
 - Word
 - PowerPoint
 - Excel
@@ -57,11 +57,11 @@ Next I will illustrate some skills I have.
 - Access
 - Publisher
 
-## 📌 Project Documentation
+## 📌Project Documentation
 - Balsamiq
 - Enterprise Architect
 
-## 🚀 Others
+## 🚀Others
 - Azure
 - Jira
 - Postman
