@@ -48,6 +48,9 @@ Next I will illustrate some skills I have.
 - Adobe XD
 - Photoshop
 - Corel Draw
+- Paint 3D
+- PhotoScape X
+- Gimp
 
 ## 🏢Office Pack
 - Word
@@ -56,16 +59,22 @@ Next I will illustrate some skills I have.
 - Visio
 - Access
 - Publisher
+- OneNote
+- Outlook
+- InfoPath
 
 ## 📌Project Documentation
 - Balsamiq
 - Enterprise Architect
+- Whimsical
 
 ## 🚀Others
 - Azure
 - Jira
 - Postman
 - Photographer
+- Docker
+- Keycloak
 
 
 
