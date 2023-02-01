@@ -23,6 +23,7 @@ Next I will illustrate some skills I have.
 - JavaScript
 - TypeScript
 - Reactjs
+- React Native
 - Nextjs
 - JQuery
 
