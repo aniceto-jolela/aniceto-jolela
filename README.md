@@ -2,10 +2,13 @@
 # <p align='center'> Hi 👋! <br/> Welcome to my profile </p>
 
 
+As a full stack developer with extensive experience in various programming languages, I have cultivated a strong foundation in software development principles and practices. 
 
-Through the diversity that we have in the world and its evolution, we are obliged to apprehend several subjects in different areas of life.
+Currently, I am focusing on Django due to its maturity, robust architecture, and the security features it offers, which align perfectly with my goal of specializing in cybersecurity. 
 
-Next I will illustrate some skills I have.
+Be comfortable 😌.
+
+I will show just a little of my skills, in what follows below.
 
 
   
@@ -18,6 +21,7 @@ Next I will illustrate some skills I have.
 
 
 ## 🎩Front End
+- Tkinter
 - HTML
 - CSS
 - JavaScript
@@ -28,6 +32,8 @@ Next I will illustrate some skills I have.
 - JQuery
 
 ## 🪃Back End
+- Python
+- Django
 - PHP
 - Node
 - C#
@@ -37,6 +43,7 @@ Next I will illustrate some skills I have.
 - SQL Server
 - Postgres
 - Mongodb
+- Sqlite
 
 ## ⚓S.O
 - Windows
@@ -54,6 +61,7 @@ Next I will illustrate some skills I have.
 - Gimp
 
 ## 🏢Office Pack
+- Power BI
 - Word
 - PowerPoint
 - Excel
