@@ -87,7 +87,7 @@ I will show just a little of my skills, in what follows below.
 
 #
 
-<p align='center'> Inbox 📥 : anicetojosejolelaj@gmail.com 📧 </p>
+<p align='center'> Inbox 📥 : otecina500@gmail.com 📧 </p>
 
 
 <!---
